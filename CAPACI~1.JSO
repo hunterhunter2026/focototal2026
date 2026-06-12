@@ -1,0 +1,8 @@
+{
+  "appId": "com.cleytondev.focototal",
+  "appName": "Foco Total",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#1a0a3e"
+  }
+}
